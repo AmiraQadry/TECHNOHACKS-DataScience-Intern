@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection 💳
 ![](https://github.com/luisosorio3214/Credit-Card-Fraud-Detection-/raw/main/Static/credit-card-fraud-detection.png)
 ## Problem statement
-The Problem statement for this project is to use machine learning models [GradientBoostingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) to detect 
+The Problem statement for this project is to use machine learning model [GradientBoostingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html) to detect 
 fraudulent credit card transactions.
 
 ## Dataset
